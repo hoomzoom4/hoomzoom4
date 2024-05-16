@@ -2,9 +2,9 @@
 
 ### Introduction
 
-**Objective**: To design and implement a secure and efficient home network that provides comprehensive coverage and high-speed internet access across a two-level residence.
+**Objective**: To design and implement a secure and efficient home network that provides comprehensive coverage and high-speed internet access across my two-level residence.
 
-**Context**: The project was initiated to address the connectivity needs of a modern household with multiple users and devices, (includes a home office for father that WFH and brother with gaming station) ensuring seamless operation for both professional and personal use.
+**Context**: The project was initiated to address the connectivity needs of my modern household with multiple users and devices, (includes a home office for father that WFH and brother with gaming station) ensuring seamless operation for both professional and personal use.
 
 ### Network Design and Implementation
 
