@@ -8,7 +8,7 @@ Report: Custom Gaming PC Builds with Cybersecurity Integration
 
 **Context**: Each build presented unique challenges and learning opportunities, allowing for the development of skills in hardware optimization, system configuration, and cybersecurity best practices.
 
-### First Build: Budget-Focused with Security Considerations
+### First Build: Budget-Focused with Security Considerations ($300 in 2020)
 
 ![firstpcbuild.jpg](Report%20Custom%20Gaming%20PC%20Builds%20with%20Cybersecurity%20%204df6f18e0ac64a09aae272f834d47197/firstpcbuild.jpg)
 
@@ -22,7 +22,7 @@ Report: Custom Gaming PC Builds with Cybersecurity Integration
 - **Operating System Hardening**: Configured Windows Group Policy settings to limit unnecessary services and reduce the attack surface.
 - **Software Updates**: Ensured all system drivers and the operating system were up to date to protect against known vulnerabilities.
 
-### Second Build: Enhanced Performance with Advanced Security
+### Second Build: Enhanced Performance with Advanced Security ($600 in 2021)
 
 ![secondpcbuild.jpg](Report%20Custom%20Gaming%20PC%20Builds%20with%20Cybersecurity%20%204df6f18e0ac64a09aae272f834d47197/c8983dac-bf6b-41bc-a44c-52fad52ebc7c.png)
 
@@ -36,7 +36,7 @@ Report: Custom Gaming PC Builds with Cybersecurity Integration
 - **Network Security**: Configured the system to use VPNs and proxies for secure internet browsing and online gaming, safeguarding against eavesdropping and cyber attacks.
 - **Antivirus Protection**: Installed and configured robust antivirus software to provide real-time protection against malware and other cyber threats.
 
-### Third Build: High-Performance System with Cybersecurity Focus
+### Third Build: High-Performance System with Cybersecurity Focus ($450 in 2024)
 
 ![thirdpcbuild.jpg](Report%20Custom%20Gaming%20PC%20Builds%20with%20Cybersecurity%20%204df6f18e0ac64a09aae272f834d47197/01a5a027-dce4-4e94-9660-3fec45140f36.png)
 
