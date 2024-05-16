@@ -4,7 +4,7 @@
 
 **Objective**: To regain access to a Google Pixel 4XL after the lock screen PIN and Gmail password were forgotten, using ethical and legal methods to assist a family member in need.
 
-**Context**: My father forgot his phone’s lock screen PIN and Gmail password. Despite attempting all possible combinations and recovery options, he was unable to unlock his phone. As he needed the phone for work the next day, I took on the challenge to help him regain access.
+**Context**: IN 2021, My father forgot his phone’s lock screen PIN and Gmail password. Despite attempting all possible combinations and recovery options, he was unable to unlock his phone. As he needed the phone for work the next day, I took on the challenge to help him regain access.
 
 ### Problem Statement
 
