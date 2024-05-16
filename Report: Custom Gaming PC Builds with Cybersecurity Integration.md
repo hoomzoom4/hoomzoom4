@@ -11,7 +11,12 @@ Report: Custom Gaming PC Builds with Cybersecurity Integration
 ### First Build: Budget-Focused with Security Considerations ($300 in 2020)
 
 ![firstpcbuild](https://github.com/hoomzoom4/hoomzoom4/assets/139533936/9f981c70-18d7-44a3-affb-be7a4bd7ecba)
-
+- CPU: Ryzen 3 3200G 
+- GPU: GTX 1030
+- RAM: 16gb 2666mhz DDR4 overclocked to 3000mhz
+- MB: A320MH Biostar
+- SSD: Silicon Power SATA III SSD 500GB
+____________________________
 - **Hardware Selection**: Chose the Ryzen 3 3200G and GTX 1030 for their value and performance.
 - **Performance Tuning**: Overclocked RAM to achieve higher speeds, enhancing overall system performance.
 - **Windows Optimization**: Applied system tweaks for optimal performance while maintaining system security.
@@ -25,7 +30,12 @@ Report: Custom Gaming PC Builds with Cybersecurity Integration
 ### Second Build: Enhanced Performance with Advanced Security ($600 in 2021)
 
 ![c8983dac-bf6b-41bc-a44c-52fad52ebc7c](https://github.com/hoomzoom4/hoomzoom4/assets/139533936/77b96384-7777-4212-8141-bab6be1f0571)
-
+- CPU: Intel i3-10100F
+- GPU: GTX 1050ti
+- RAM: 16gb 3000mhz DDR4 overclocked to 3350mhz
+- MB: ASRock H310CM-HDV
+- SSD: NVME M.2 PCIe Gen3 Western Digital 1TB
+____________________________
 - **BIOS Configuration**: Adjusted settings for stability and performance.
 - **File Systems**: Selected file systems that offer better security features and data integrity.
 - **SSD Technology**: Chose an NVMe M.2 SSD for its speed and encryption capabilities.
@@ -39,7 +49,12 @@ Report: Custom Gaming PC Builds with Cybersecurity Integration
 ### Third Build: High-Performance System with Cybersecurity Focus ($450 in 2024)
 
 ![01a5a027-dce4-4e94-9660-3fec45140f36](https://github.com/hoomzoom4/hoomzoom4/assets/139533936/2d1ba634-7ddb-40bc-b94a-5ef1bff25000)
-
+- CPU: Intel i7-8700k
+- GPU: GTX 1080ti
+- RAM: 32gb 3000mhz DDR4 overclocked to 3500mhz
+- MB: ROG STRIX Z370-F GAMING
+- SSD: NVME M.2 PCIe Gen 4 Western Digital 1TB
+____________________________
 - **Component Selection**: Carefully selected used parts for their reliability and performance.
 - **Overclocking**: Achieved higher clock speeds on RAM and CPU while ensuring system stability.
 - **System Optimization**: Applied advanced settings for peak performance without compromising security.
