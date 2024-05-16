@@ -10,7 +10,7 @@ Report: Custom Gaming PC Builds with Cybersecurity Integration
 
 ### First Build: Budget-Focused with Security Considerations ($300 in 2020)
 
-![firstpcbuild.jpg](Report%20Custom%20Gaming%20PC%20Builds%20with%20Cybersecurity%20%204df6f18e0ac64a09aae272f834d47197/firstpcbuild.jpg)
+![firstpcbuild](https://github.com/hoomzoom4/hoomzoom4/assets/139533936/9f981c70-18d7-44a3-affb-be7a4bd7ecba)
 
 - **Hardware Selection**: Chose the Ryzen 3 3200G and GTX 1030 for their value and performance.
 - **Performance Tuning**: Overclocked RAM to achieve higher speeds, enhancing overall system performance.
@@ -24,7 +24,7 @@ Report: Custom Gaming PC Builds with Cybersecurity Integration
 
 ### Second Build: Enhanced Performance with Advanced Security ($600 in 2021)
 
-![secondpcbuild.jpg](Report%20Custom%20Gaming%20PC%20Builds%20with%20Cybersecurity%20%204df6f18e0ac64a09aae272f834d47197/c8983dac-bf6b-41bc-a44c-52fad52ebc7c.png)
+![c8983dac-bf6b-41bc-a44c-52fad52ebc7c](https://github.com/hoomzoom4/hoomzoom4/assets/139533936/77b96384-7777-4212-8141-bab6be1f0571)
 
 - **BIOS Configuration**: Adjusted settings for stability and performance.
 - **File Systems**: Selected file systems that offer better security features and data integrity.
@@ -38,7 +38,7 @@ Report: Custom Gaming PC Builds with Cybersecurity Integration
 
 ### Third Build: High-Performance System with Cybersecurity Focus ($450 in 2024)
 
-![thirdpcbuild.jpg](Report%20Custom%20Gaming%20PC%20Builds%20with%20Cybersecurity%20%204df6f18e0ac64a09aae272f834d47197/01a5a027-dce4-4e94-9660-3fec45140f36.png)
+![01a5a027-dce4-4e94-9660-3fec45140f36](https://github.com/hoomzoom4/hoomzoom4/assets/139533936/2d1ba634-7ddb-40bc-b94a-5ef1bff25000)
 
 - **Component Selection**: Carefully selected used parts for their reliability and performance.
 - **Overclocking**: Achieved higher clock speeds on RAM and CPU while ensuring system stability.
