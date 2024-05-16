@@ -17,17 +17,17 @@ The primary issue was the inability to unlock the Google Pixel 4XL due to forgot
 1. **Initial Attempt**: Attempted all known PIN combinations and Gmail password recovery options without success.
 2. **Decision to Factory Reset**: Decided to perform a factory reset to regain access to the phone, understanding the implications of data loss and the need for a clean slate.
 
-![pixel factory reset.jpg](Report%20Bypassing%20FRP%20Security%20Measures%20to%20Access%20L%202d53d9332d32490dadaae2a09976d66c/a73dece1-82db-4363-933f-6390c00c3592.png)
+![a73dece1-82db-4363-933f-6390c00c3592](https://github.com/hoomzoom4/hoomzoom4/assets/139533936/ea06efae-f6ab-4750-9eda-3c0eacd9f282)
 
 ### Step 2: Bypassing Google Account Verification
 
 1. **Encountering Verification**: After the factory reset, the phone required the original Google account login, triggering the Factory Reset Protection (FRP) mechanism.
 
-![FRP LOCK.jpg](Report%20Bypassing%20FRP%20Security%20Measures%20to%20Access%20L%202d53d9332d32490dadaae2a09976d66c/FRP_LOCK.jpg)
+![FRP_LOCK](https://github.com/hoomzoom4/hoomzoom4/assets/139533936/61ceb6dd-2e09-4252-af4f-2c8bd0871778)
 
 1. **Exploring Accessibility Settings**: At the initial setup page (language selection), accessed the "Help" button to navigate to the FAQ website, leveraging the accessibility features (“Assistive options”) as an attack vector.
 
-![ACCESSIBILITY SETTINGFS.PNG](Report%20Bypassing%20FRP%20Security%20Measures%20to%20Access%20L%202d53d9332d32490dadaae2a09976d66c/b2ca7d45-3dbc-415b-9361-47a3b1007372.png)
+![b2ca7d45-3dbc-415b-9361-47a3b1007372](https://github.com/hoomzoom4/hoomzoom4/assets/139533936/f776f9ea-ba56-4135-8cd7-4b367712aa47)
 
 1. **Finding a Backdoor**: Utilized the accessibility settings to exploit a legitimate backdoor, allowing navigation to the login page for Gmail.
 2. **Logging into New Gmail**: Conducted a session hijacking by logging into my father’s new Gmail account and logging out of the old one.
@@ -39,7 +39,7 @@ The primary issue was the inability to unlock the Google Pixel 4XL due to forgot
 - Completed the phone setup with the new Gmail account, restoring full functionality.
 - Ensured the phone was operational, allowing my father to resume his work without further delay.
 
-![new pixel.jpg](Report%20Bypassing%20FRP%20Security%20Measures%20to%20Access%20L%202d53d9332d32490dadaae2a09976d66c/new_pixel.jpg)
+![new_pixel](https://github.com/hoomzoom4/hoomzoom4/assets/139533936/15720952-040a-4a2d-b625-3266a28318a8)
 
 ### Technical Skills Demonstrated
 
